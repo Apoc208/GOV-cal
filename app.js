@@ -1,1 +1,0 @@
-console.log('Blood Moon Coven Calculator Loaded');
